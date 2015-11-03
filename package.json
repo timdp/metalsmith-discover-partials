@@ -1,0 +1,34 @@
+{
+  "name": "metalsmith-discover-partials",
+  "version": "0.0.0",
+  "description": "Discovers your template partials and registers them with Handlebars.",
+  "keywords": [
+    "metalsmith",
+    "handlebars",
+    "partials"
+  ],
+  "author": "Tim De Pauw <hi@tmdpw.eu> (https://tmdpw.eu/)",
+  "engines": {
+    "node": ">=0.12.0"
+  },
+  "dependencies": {
+    "defaults": "^1.0.3",
+    "fs-tools": "^0.2.11",
+    "handlebars": "*"
+  },
+  "devDependencies": {
+    "standard": "^5.3.1"
+  },
+  "main": "index.js",
+  "files": [
+    "index.js"
+  ],
+  "scripts": {
+    "test": "node node_modules/standard/bin/cmd.js"
+  },
+  "repository": "timdp/metalsmith-discover-partials",
+  "bugs": {
+    "url": "https://github.com/timdp/metalsmith-discover-partials/issues"
+  },
+  "license": "MIT"
+}
