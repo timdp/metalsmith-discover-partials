@@ -14,7 +14,7 @@
   "dependencies": {
     "defaults": "^1.0.3",
     "fs-tools": "^0.2.11",
-    "handlebars": "*"
+    "handlebars": "4.0.6"
   },
   "devDependencies": {
     "standard": "^5.3.1"
