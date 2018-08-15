@@ -1,6 +1,6 @@
 {
   "name": "metalsmith-discover-partials",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "Discovers your template partials and registers them with Handlebars.",
   "keywords": [
     "metalsmith",
